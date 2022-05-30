@@ -2131,6 +2131,19 @@
   "faucets": ["https://faucet.aerochain.id/"],
   "infoURL": "https://aerochaincoin.org/"
 }, {
+  "name": "Aerochain Mainnet",
+  "chainId": 789,
+  "shortName": "AERO",
+  "networkId": 789,
+  "nativeCurrency": {
+    "name": "Aerochain Coin",
+    "symbol": "AERO",
+    "decimals": 18
+  },
+  "rpc": ["https://rpc.aerochain.id/"],
+  "faucets": ["https://faucet.aerochain.id/"],
+  "infoURL": "https://aerochain.id/"
+}, {
   "name": "Haic",
   "chainId": 803,
   "shortName": "haic",
